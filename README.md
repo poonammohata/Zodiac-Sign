@@ -1,4 +1,4 @@
-# Zodic-Sign
+# Zodiac-Sign
 This is a web application which helps to know about zodiac sign symbols
 
 # Motivation
